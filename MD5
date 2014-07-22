@@ -1,0 +1,13 @@
+1277cb528f1a629c070a45337895204c *DESCRIPTION
+76815ec359e993e175335fcffddf63c6 *NAMESPACE
+a644b579fecbcde71e66dfae4bbadf62 *R/data.R
+d4dc1302a49c3d7fad8b22517e627f89 *README.md
+39e06380d060772dfd36101109690212 *data/applicants.rdata
+6e026e41333f3420107b25c66605eedc *data/births.rdata
+75054ffab8db3b062957974de1ee6ce4 *data/datalist
+b2bb4dd1c7722f8878e40b9f07265a6b *data/lifetables.rdata
+a469586d4c9ed58d9014883fac94c901 *data/names.rdata
+a9c65f2ac493410784d0f91c38cde91f *man/applicants.Rd
+61c2cf231d8dd21dbc8baa0792e60212 *man/babynames.Rd
+8f25460d4117bbf4682d6369b56636dd *man/births.Rd
+f4f356d54f827f70c81a04aff4dd9eb5 *man/lifetables.Rd
