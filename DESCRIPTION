@@ -1,6 +1,6 @@
 Package: babynames
-Title: US Baby Names 1880-2015
-Version: 0.3.0
+Title: US Baby Names 1880-2017
+Version: 1.0.0
 Authors@R: c(
     person("Hadley", "Wickham", , "hadley@rstudio.com", c("aut", "cre")),
     person("RStudio", role = "cph")
@@ -13,11 +13,12 @@ License: CC0
 LazyData: true
 URL: http://github.com/hadley/babynames
 BugReports: https://github.com/hadley/babynames/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
+Suggests: testthat (>= 2.0.0)
 NeedsCompilation: no
-Packaged: 2017-04-14 16:57:51 UTC; hadley
+Packaged: 2019-01-12 14:32:23 UTC; hadley
 Author: Hadley Wickham [aut, cre],
   RStudio [cph]
 Maintainer: Hadley Wickham <hadley@rstudio.com>
 Repository: CRAN
-Date/Publication: 2017-04-14 23:03:10 UTC
+Date/Publication: 2019-01-12 23:12:16 UTC
